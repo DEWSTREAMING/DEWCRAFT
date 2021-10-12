@@ -1,0 +1,35 @@
+{
+  "modules": {
+    "megane-team-reborn-energy": {
+      "badasintended.megane.impl.TeamRebornEnergy": true,
+      "badasintended.megane.impl.LegacyTeamRebornEnergy": true
+    },
+    "megane-reborn-core": {
+      "badasintended.megane.impl.RebornCore": true
+    },
+    "megane-fabric-transfer": {
+      "badasintended.megane.impl.FabricTransfer": true
+    },
+    "megane-tech-reborn": {
+      "badasintended.megane.impl.TechReborn": true
+    },
+    "megane-extra-generators": {
+      "badasintended.megane.impl.ExtraGenerators": true
+    },
+    "megane-lib-block-attributes": {
+      "badasintended.megane.impl.LibBlockAttributesFluids": true
+    },
+    "megane-applied-energistics-2": {
+      "badasintended.megane.impl.AppliedEnergistics2": true
+    },
+    "megane-fast-transfer-lib": {
+      "badasintended.megane.impl.FastTransferLib": true
+    },
+    "megane-dml-simulacrum": {
+      "badasintended.megane.impl.DmlSimulacrum": true
+    },
+    "megane-vanilla": {
+      "badasintended.megane.impl.Minecraft": true
+    }
+  }
+}
