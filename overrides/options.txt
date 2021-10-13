@@ -24,13 +24,13 @@ fov:0.5
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:0.0
-renderDistance:12
+renderDistance:6
 entityDistanceScaling:1.0
 guiScale:3
 particles:0
 maxFps:260
 difficulty:2
-graphicsMode:1
+graphicsMode:0
 ao:2
 biomeBlendRadius:2
 renderClouds:true
@@ -54,7 +54,7 @@ chatDelay:0.0
 chatHeightUnfocused:0.44366195797920227
 chatScale:1.0
 chatWidth:1.0
-mipmapLevels:4
+mipmapLevels:0
 useNativeTransport:true
 mainHand:right
 attackIndicator:1
